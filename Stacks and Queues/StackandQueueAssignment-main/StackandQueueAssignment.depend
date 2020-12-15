@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1608014119 source:d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"stack.h"
+	"queue.h"
+
+1608014119 d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\stack.h
+	"appconstant.h"
+	<stdint.h>
+
+1608014119 d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\appconstant.h
+
+1608014119 d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\queue.h
+	<stdint.h>
+	"appconstant.h"
+
+1608014119 source:d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\queue.c
+	<assert.h>
+	<stdint.h>
+	"queue.h"
+	<stddef.h>
+	<stdio.h>
+
+1608014119 source:d:\manipal\1.ads\assignments\stackandqueueassignment-main\stackandqueueassignment-main\stack.c
+	<assert.h>
+	"stack.h"
+	<stdint.h>
+	<stddef.h>
+
